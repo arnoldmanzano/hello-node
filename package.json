@@ -18,15 +18,14 @@
   },
   "homepage": "https://github.com/arnoldmanzano/hello-node#readme",
   "dependencies": {
-    "express": "^4.13.4",
+    "express": "^4.13.1",
     "grunt": "^0.4.5"
   },
   "devDependencies": {
-    "chai": "^3.5.0",
+    "chai": "^3.4.1",
     "grunt-webdriver": "^1.0.0",
-    "mocha": "^2.4.5",
-    "selenium-standalone": "^4.9.1",
-    "wdio-mocha-framework": "^0.2.11",
-    "webdriverio": "^4.0.3"
+    "mocha": "^2.3.4",
+    "selenium-standalone": "^4.8.0",
+    "webdriverio": "^3.4.0"
   }
 }

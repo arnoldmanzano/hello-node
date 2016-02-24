@@ -3,7 +3,7 @@ module.exports = function(grunt) {
     pkg: grunt.file.readJSON('package.json'),
     webdriver: {
       test: {
-        configFile: './test/wdio.conf.js'
+        configFile: './specs/wdio.conf.js'
       }
     }
   });
